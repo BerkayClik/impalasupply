@@ -218,7 +218,7 @@
     <div class="modal-sidebar-scroll rts-dark-light">
         <ul>
             <li><span>Dark</span><i class="rts-go-dark fal fa-moon"></i></li>
-            <li><span>Light</span><i class="rts-go-light far fa-sun"></i></li>
+            <li><span>Light</span><i class="rts-go-light far fa-lightbulb"></i></li>
         </ul>
     </div>
 
