@@ -37,7 +37,7 @@
                                 <li data-sal-delay="250" data-sal="slide-up" data-sal-duration="800"><a href="engine-mechanical">Engine & Mechanical</a></li>
                                 <li data-sal-delay="350" data-sal="slide-up" data-sal-duration="800"><a href="cabin-interior-supplies">Cabin & Interior Supplies</a></li>
                                 <li data-sal-delay="450" data-sal="slide-up" data-sal-duration="800"><a href="specialized-marine-products">Specialized Marine Products</a></li>
-                                <li data-sal-delay="550" data-sal="slide-up" data-sal-duration="800"><a href="maintenance-repair-solutions">Maintenance & Repair Solutions/a></li>
+                                <li data-sal-delay="550" data-sal="slide-up" data-sal-duration="800"><a href="maintenance-repair-solutions">Maintenance & Repair Solutions</a></li>
                                 <li data-sal-delay="550" data-sal="slide-up" data-sal-duration="800"><a href="logistics-support-services">Logistics & Support Services</a></li>
                             </ul>
                         </div>
