@@ -58,30 +58,31 @@
                     <!-- single post -->
                     <div class="blog-single-post-listing" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
                         <div class="thumbnail">
-                            <img src="assets/images/blog/blog-lg-1.webp" alt="Business-Blog">
+                            <img src="assets/images/blog/blog-lg-3.webp" alt="Business-Blog">
                         </div>
                         <div class="blog-listing-content">
                             <div class="user-info">
-                               
+                                
                                 <!-- single info -->
                                 <div class="single">
                                     <i class="far fa-clock"></i>
-                                    <span>29 March, 2025</span>
+                                    <span>1 April, 2025</span>
                                 </div>
-                                <!-- single infoe end -->
-                                
+                                <!-- single info end -->
+                               
                             </div>
-                            <a class="blog-title" href="sustainability-in-maritime">
-                                <h3 class="title">Sustainability in Maritime Logistics: Steps Towards Protecting the Future</h3>
+                            <a class="blog-title" href="digital-transformation">
+                                <h3 class="title">Digital Transformation in the Supply Chain: Impacts on the Maritime Sector</h3>
                             </a>
                             <p class="disc">
-                            The maritime industry accounts for over 80% of global trade, but its scale also leads to significant environmental impacts. Issues like carbon emissions, harm to marine ecosystems, and fuel consumption are driving the need for sustainable transformation in the sector.
+                            Digitalization has become the key to speed and efficiency in the supply chain.
+                            The maritime sector is also embracing this transformation, offering safer, faster, and more transparent operations.
                             </p>
-                            <a class="rts-btn btn-primary" href="sustainability-in-maritime">Read Details</a>
+                            <a class="rts-btn btn-primary" href="digital-transformation">Read Details</a>
                         </div>
                     </div>
                     <!-- single post End-->
-                    <!-- single post -->
+                     <!-- single post -->
                     <div class="blog-single-post-listing" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
                         <div class="thumbnail">
                             <img src="assets/images/blog/blog-lg-2.webp" alt="Business-Blog">
@@ -111,27 +112,26 @@
                     <!-- single post -->
                     <div class="blog-single-post-listing" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
                         <div class="thumbnail">
-                            <img src="assets/images/blog/blog-lg-3.webp" alt="Business-Blog">
+                            <img src="assets/images/blog/blog-lg-1.webp" alt="Business-Blog">
                         </div>
                         <div class="blog-listing-content">
                             <div class="user-info">
-                                
+                               
                                 <!-- single info -->
                                 <div class="single">
                                     <i class="far fa-clock"></i>
-                                    <span>1 April, 2025</span>
+                                    <span>29 March, 2025</span>
                                 </div>
-                                <!-- single info end -->
-                               
+                                <!-- single infoe end -->
+                                
                             </div>
-                            <a class="blog-title" href="digital-transformation">
-                                <h3 class="title">Digital Transformation in the Supply Chain: Impacts on the Maritime Sector</h3>
+                            <a class="blog-title" href="sustainability-in-maritime">
+                                <h3 class="title">Sustainability in Maritime Logistics: Steps Towards Protecting the Future</h3>
                             </a>
                             <p class="disc">
-                            Digitalization has become the key to speed and efficiency in the supply chain.
-                            The maritime sector is also embracing this transformation, offering safer, faster, and more transparent operations.
+                            The maritime industry accounts for over 80% of global trade, but its scale also leads to significant environmental impacts. Issues like carbon emissions, harm to marine ecosystems, and fuel consumption are driving the need for sustainable transformation in the sector.
                             </p>
-                            <a class="rts-btn btn-primary" href="digital-transformation">Read Details</a>
+                            <a class="rts-btn btn-primary" href="sustainability-in-maritime">Read Details</a>
                         </div>
                     </div>
                     <!-- single post End-->
