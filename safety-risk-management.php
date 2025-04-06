@@ -37,7 +37,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 breadcrumb-1">
-                    <h3 class="title" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">Safety and Risk Management in Maritime Shipping: Modern Solutions</h3>
+                    <h1 font-size: 50px; class="title" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">Safety and Risk Management in Maritime Shipping: Modern Solutions</h1>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                     <div class="bread-tag">
