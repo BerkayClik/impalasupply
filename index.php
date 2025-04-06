@@ -12,6 +12,7 @@
     <meta property="og:description" content="Impala Ship Supply provides reliable, fast, and solution-oriented maritime services, offering global ship supply, provisions, spare parts, safety equipment, and logistics support for vessels worldwide." />
     <meta property="og:url" content="https://www.impalashipsupply.com" />
     <meta property="og:type" content="website" />
+    <meta name="google-site-verification" content="1U2r5xzsumZJ75jBLN805NMFvzzcuKfHTwxHC46nN2Y" />
     <title>Impala | Ship Supply Solutions</title>
     
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
